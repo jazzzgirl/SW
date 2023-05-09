@@ -2,16 +2,12 @@
 <br>
 구민수 : https://github.com/westerdif<br>
 김경현 : https://github.com/GaengSSeu04<br>
-김동군 :<br>
 김민재 : https://github.com/kmjnet0515<br>
-김재민 : https://github.com/sdmalksd<br>
 김재현 : https://github.com/KimJaeHyun1110/<br>
 변형종 : https://github.com/brother-jong<br>
 사이딜라예프 도스톤벡 :<br>
 신동빈 : https://github.com/lamp09<br>
-유승희 : https://github.com/Yu-seunghee<br>
 이동혁 : https://github.com/qkdldjtmxm<br>
-이재찬 : https://github.com/jaechan6119<br>
 이준서 : https://github.com/Junseo0826<br>
 임수현 : https://github.com/limsoo2004<br>
 임영훈 : https://github.com/dudgns5578<br>
